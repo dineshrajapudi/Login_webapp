@@ -1,0 +1,9 @@
+# Ignore all .log files
+*.log
+
+# Ignore a specific file
+secrets.txt
+
+# Ignore a directory
+/temp/
+*.vsidx

@@ -1,0 +1,6 @@
+﻿@model LoginUser1
+<h1>Welcome to the portal</h1>
+@{
+    var username1 = Model?.UserNAME1;
+<partial name="~/Views/Home/_PartialView.cshtml" model="username1" />
+}
