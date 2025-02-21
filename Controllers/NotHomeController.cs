@@ -9,5 +9,9 @@ namespace WebApplication_Login.Controllers
             return View();
         }
         public IActionResult Zoo() => View();
+        public IActionResult Forest() => View();
+        public IActionResult Products() => View();
+        public IActionResult About() => View();
+
     }
 }

@@ -29,6 +29,6 @@ app.UseRouting();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=NotHome}/{action=Zoo}/{id?}");
+    pattern: "{controller=NotHome}/{action=Products}");
 
 app.Run();

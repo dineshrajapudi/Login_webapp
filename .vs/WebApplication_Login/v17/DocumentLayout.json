@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\controllers\\nothomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:controllers\\nothomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\home\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\home\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\nothome\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\nothome\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\nothome\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\nothome\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\home\\login22.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\home\\login22.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\nothome\\forest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\nothome\\forest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\nothome\\zoo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\nothome\\zoo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -36,44 +76,8 @@
       "AbsoluteMoniker": "D:0:0:{7F984B2E-B2F5-412A-9C6F-4C0A451C33C5}|..\\FunctionApp1\\FunctionApp1.csproj|c:\\users\\dinesh\\source\\repos\\functionapp1\\httpdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\nothome\\zoo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\nothome\\zoo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\home\\solar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\home\\solar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\home\\login22.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\home\\login22.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -82,10 +86,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\home\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\home\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F984B2E-B2F5-412A-9C6F-4C0A451C33C5}|..\\FunctionApp1\\FunctionApp1.csproj|c:\\users\\dinesh\\source\\repos\\functionapp1\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -122,14 +122,6 @@
       "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:models\\yoga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\models\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:models\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|c:\\users\\dinesh\\source\\repos\\webapplication_login\\models\\loginuser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AF4DCB2-F8B6-4339-872F-6D04CCFB3972}|WebApplication_Login.csproj|solutionrelative:models\\loginuser1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -164,7 +156,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -179,33 +171,159 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\NotHome\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\NotHome\\About.cshtml",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\NotHome\\About.cshtml",
+              "RelativeToolTip": "Views\\NotHome\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T06:42:56.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\NotHome\\Products.cshtml",
+              "RelativeDocumentMoniker": "Views\\NotHome\\Products.cshtml",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\NotHome\\Products.cshtml",
+              "RelativeToolTip": "Views\\NotHome\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T06:41:01.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T22:15:47.657Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "NotHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Controllers\\NotHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotHomeController.cs",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Controllers\\NotHomeController.cs",
+              "RelativeToolTip": "Controllers\\NotHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:43:52.972Z"
+              "WhenOpened": "2024-08-29T15:08:34.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T16:30:41.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\_PartialView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_PartialView.cshtml",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\_PartialView.cshtml",
+              "RelativeToolTip": "Views\\Home\\_PartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T21:56:24.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T16:27:18.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T21:36:27.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T16:27:23.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T21:33:11.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "Login22.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Login22.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login22.cshtml",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Login22.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login22.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T22:25:36.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "WebApplication_Login.csproj",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\WebApplication_Login.csproj",
               "RelativeDocumentMoniker": "WebApplication_Login.csproj",
@@ -213,11 +331,38 @@
               "RelativeToolTip": "WebApplication_Login.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T13:13:13.116Z"
+              "WhenOpened": "2025-01-08T13:13:13.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Zoo.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\NotHome\\Zoo.cshtml",
+              "RelativeDocumentMoniker": "Views\\NotHome\\Zoo.cshtml",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\NotHome\\Zoo.cshtml",
+              "RelativeToolTip": "Views\\NotHome\\Zoo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:22:35.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Forest.cshtml",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\NotHome\\Forest.cshtml",
+              "RelativeDocumentMoniker": "Views\\NotHome\\Forest.cshtml",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\NotHome\\Forest.cshtml",
+              "RelativeToolTip": "Views\\NotHome\\Forest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T06:30:32.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -229,19 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T21:36:27.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -253,55 +386,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T16:27:18.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotHomeController.cs",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Controllers\\NotHomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NotHomeController.cs",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Controllers\\NotHomeController.cs",
-              "RelativeToolTip": "Controllers\\NotHomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T15:08:34.836Z"
+              "WhenOpened": "2025-01-14T13:43:52.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Zoo.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\NotHome\\Zoo.cshtml",
-              "RelativeDocumentMoniker": "Views\\NotHome\\Zoo.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\NotHome\\Zoo.cshtml",
-              "RelativeToolTip": "Views\\NotHome\\Zoo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T15:22:35.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Solar.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Solar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Solar.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Solar.cshtml",
-              "RelativeToolTip": "Views\\Home\\Solar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T16:41:45.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "GrpcService1.csproj",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\GrpcService1\\GrpcService1.csproj",
               "RelativeDocumentMoniker": "..\\GrpcService1\\GrpcService1.csproj",
@@ -309,11 +406,12 @@
               "RelativeToolTip": "..\\GrpcService1\\GrpcService1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T13:49:45.251Z"
+              "WhenOpened": "2025-01-08T13:49:45.251Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "FunctionApp1.csproj",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\FunctionApp1\\FunctionApp1.csproj",
               "RelativeDocumentMoniker": "..\\FunctionApp1\\FunctionApp1.csproj",
@@ -321,23 +419,12 @@
               "RelativeToolTip": "..\\FunctionApp1\\FunctionApp1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-08T13:49:47.222Z"
+              "WhenOpened": "2025-01-08T13:49:47.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T16:27:23.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "httpdemo.cs",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\FunctionApp1\\httpdemo.cs",
               "RelativeDocumentMoniker": "..\\FunctionApp1\\httpdemo.cs",
@@ -349,67 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAIBJwAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T22:15:47.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T23:37:20.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T22:25:39.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Login22.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Login22.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Login22.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Login22.cshtml",
-              "RelativeToolTip": "Views\\Home\\Login22.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T22:25:36.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T22:25:33.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -445,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -454,18 +481,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-29T15:33:05.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_PartialView.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\_PartialView.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\_PartialView.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\_PartialView.cshtml",
-              "RelativeToolTip": "Views\\Home\\_PartialView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T21:56:24.815Z"
             },
             {
               "$type": "Document",
@@ -576,18 +591,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "Create.cs",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Models\\Create.cs",
-              "RelativeDocumentMoniker": "Models\\Create.cs",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Models\\Create.cs",
-              "RelativeToolTip": "Models\\Create.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T23:40:07.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
               "Title": "LoginUser1.cs",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Models\\LoginUser1.cs",
               "RelativeDocumentMoniker": "Models\\LoginUser1.cs",
@@ -600,18 +603,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-30T16:30:41.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
               "Title": "Interface.cs",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Models\\Interface.cs",
               "RelativeDocumentMoniker": "Models\\Interface.cs",
@@ -623,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 35,
               "Title": "CreateSuccess.cshtml",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\WebApplication_Login\\Views\\Home\\CreateSuccess.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\CreateSuccess.cshtml",
@@ -635,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\DockerEnabled\\appsettings.json",
               "RelativeDocumentMoniker": "..\\DockerEnabled\\appsettings.json",
@@ -647,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 38,
               "Title": "third.html",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\DockerEnabled\\wwwroot\\third.html",
               "RelativeDocumentMoniker": "..\\DockerEnabled\\wwwroot\\third.html",
@@ -659,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\DockerEnabled\\Program.cs",
               "RelativeDocumentMoniker": "..\\DockerEnabled\\Program.cs",
@@ -671,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "Second.html",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\DockerEnabled\\wwwroot\\Second.html",
               "RelativeDocumentMoniker": "..\\DockerEnabled\\wwwroot\\Second.html",
@@ -683,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 40,
               "Title": "First.html",
               "DocumentMoniker": "C:\\Users\\dinesh\\source\\repos\\DockerEnabled\\wwwroot\\First.html",
               "RelativeDocumentMoniker": "..\\DockerEnabled\\wwwroot\\First.html",

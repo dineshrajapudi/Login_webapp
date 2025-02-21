@@ -64,6 +64,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/dinesh/source/repos/WebApplication_Login/Views/NotHome/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90SG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dinesh/source/repos/WebApplication_Login/Views/NotHome/Forest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90SG9tZVxGb3Jlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dinesh/source/repos/WebApplication_Login/Views/NotHome/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90SG9tZVxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/dinesh/source/repos/WebApplication_Login/Views/NotHome/Zoo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90SG9tZVxab28uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
